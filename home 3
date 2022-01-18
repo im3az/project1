@@ -1,0 +1,10 @@
+<?php
+$num_1 = 9;
+$num_2 = 5;
+$num_3 = 2;
+    echo $num_1 + $num_2, "<br>";
+    echo $num_1 - $num_2, "<br>";
+    echo $num_1 * $num_2, "<br>";
+    echo $num_1 / $num_3, "<br>";
+    echo $num_2 ** $num_3, "<br>";
+?>
