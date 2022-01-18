@@ -1,0 +1,10 @@
+<?php 
+$f_name= "Imtiaz";
+$l_name= "Chowdhury";
+$full_name= "Imtiaz Chowdhury";
+    echo $f_name," ",$l_name, "<br>";
+    echo strlen($f_name), "<br>";
+    echo strlen($full_name), "<br>";
+    echo strrev($f_name), "<br>";
+    echo strrev($full_name), "<br>";
+ ?>
