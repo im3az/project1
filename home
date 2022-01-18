@@ -1,0 +1,10 @@
+<?php 
+$num_4 = 908.797;
+$num_5 = -43.49;
+$num_6 = 3.4;
+    echo (int)$num_4, "<br>";
+    echo round($num_6), "<br>";
+    echo abs($num_5), "<br>";
+$random = rand(10,-10);
+    echo $random, "<br>";
+ ?>
